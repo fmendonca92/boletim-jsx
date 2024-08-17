@@ -1,0 +1,26 @@
+.titulo-secao {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #8B0000;
+}
+
+.noticia-x-geral {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo-noticia-x {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    color: #8B0000;
+    font-weight: bold;
+}
+
+.corpo-noticia-x {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}

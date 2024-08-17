@@ -1,0 +1,22 @@
+.bulletin {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.bulletin-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.bulletin-content h2 {
+    margin-top: 20px;
+}
+
+.bulletin-footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.8em;
+}

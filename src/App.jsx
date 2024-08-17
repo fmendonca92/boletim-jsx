@@ -1,4 +1,5 @@
 import './App.css';
+import Bulletin from './Bulletin.jsx';
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
           </a>
         </p>
       </header>
-    </div>
+      <Bulletin />
+      </div>
   );
 }
 
