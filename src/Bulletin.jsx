@@ -3,6 +3,11 @@ import './Bulletin.css';
 import TextoPastoral from './pastoral.jsx';
 import Noticias from './noticias.jsx';
 import DutyRoster from './escala.jsx';
+import VisitSchedule from './visit_schedule.jsx';
+import PrayerRequests from './requests.jsx';
+import BirthdayList from './aniversarios.jsx';
+import WeddingAnniversaries from './aniversarioCasamento.jsx';
+import Liturgy from './liturgia.jsx';
 
 const Bulletin = () => {
     return (
@@ -21,18 +26,13 @@ const Bulletin = () => {
             </header>
             <section className="bulletin-content">
                 <DutyRoster />
-                <h2>Announcements</h2>
-                <ul>
-                    <li>Announcement 1</li>
-                    <li>Announcement 2</li>
-                    <li>Announcement 3</li>
-                </ul>
-                <h2>Upcoming Events</h2>
-                <ul>
-                    <li>Event 1 - Date</li>
-                    <li>Event 2 - Date</li>
-                </ul>
+                <VisitSchedule />
+                <PrayerRequests />
+                <BirthdayList />
+                <WeddingAnniversaries />
+                <Liturgy />
             </section>
+
             <footer className="bulletin-footer">
                 <p>Contact us at: info@example.com</p>
             </footer>
