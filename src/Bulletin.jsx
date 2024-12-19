@@ -2,6 +2,7 @@ import React from 'react';
 import './Bulletin.css';
 import TextoPastoral from './pastoral.jsx';
 import Noticias from './noticias.jsx';
+import DutyRoster from './escala.jsx';
 
 const Bulletin = () => {
     return (
@@ -14,9 +15,12 @@ const Bulletin = () => {
                 <hr />
                 <Noticias />
                 <hr />
+                <img src="banner_relacionamentos.png" className="banner-event"/>
+                <hr />
 
             </header>
             <section className="bulletin-content">
+                <DutyRoster />
                 <h2>Announcements</h2>
                 <ul>
                     <li>Announcement 1</li>

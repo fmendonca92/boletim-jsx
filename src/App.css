@@ -29,3 +29,8 @@
 .small {
   font-size: 0.75rem;
 }
+
+.banner-event {
+  height: 40vmin;
+  pointer-events: none;
+}
