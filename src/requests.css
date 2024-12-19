@@ -1,0 +1,34 @@
+/* styles.css */
+.prayer-requests-container {
+  font-family: sans-serif;
+  padding: 20px; /* Add some padding around the section */
+}
+
+.prayer-columns {
+  display: flex;
+  flex-wrap: wrap; /* Allow columns to wrap on smaller screens */
+  justify-content: space-between; /* Distribute space between columns */
+  gap: 20px; /* Add some gap between columns */
+}
+
+.prayer-column {
+  flex: 1 1 300px; /* Each column takes up roughly 1/3 of the width, min width 300px */
+  border: 1px solid #ddd; /* Add a subtle border to the columns */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.prayer-column ul {
+  list-style-type: disc; /* Use bullet points */
+  padding-left: 20px; /* Indent the list items */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .prayer-columns {
+    flex-direction: column; /* Stack columns vertically */
+  }
+    .prayer-column{
+        flex: 1 1 100%;
+    }
+}

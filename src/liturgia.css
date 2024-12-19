@@ -1,0 +1,48 @@
+/* styles.css */
+.liturgy-container {
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+.liturgy-services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.liturgy-service {
+  flex: 1 1 45%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.liturgy-service h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.liturgy-service ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.liturgy-service li {
+  margin-bottom: 5px;
+}
+
+.bold-item {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+  .liturgy-services {
+    flex-direction: column;
+  }
+  .liturgy-service {
+    flex: 1 1 100%;
+    margin-bottom: 10px;
+  }
+}
