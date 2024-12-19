@@ -9,21 +9,25 @@ const Noticias = () => (
             <span className="titulo-noticia-x"> </span>
             <span className="corpo-noticia-x">O Pr Luciano estará em gozo de férias dos dias 18 a 27/08. Que o         Senhor renove as forças do seu servo</span>
         </div>
+        <br />
         <div className='noticia-x-geral'>
             <span className="titulo-noticia-x">AUSÊNCIA</span>
             <span className="titulo-noticia-x"> </span>
             <span className="corpo-noticia-x">A cirurgia do Pr Cláudio correu tudo bem, mas ele precisará ficar 15 dias em repouso. Ele agradece as orações dos irmãos.</span>
         </div>
+        <br />
         <div className='noticia-x-geral'>
             <span className="titulo-noticia-x">EXPONDO AS ESCRITURAS</span>
             <span className="titulo-noticia-x"> </span>
             <span className="corpo-noticia-x">Amanhã (19/08) às 20h quem ministrará o estudo será o Pr. Lutero Rocha. Participe e traga um visitante!</span>
         </div>
+        <br />
         <div className='noticia-x-geral'>
             <span className="titulo-noticia-x">OFICINA TETÊ</span>
             <span className="titulo-noticia-x"> </span>
             <span className="corpo-noticia-x">No dia 20/08 às 14:30 acontecerá oficina para mulheres que desejarem aprender a bordar, fazer bijuterias, etc. Mais informações falar com a irmã Conceição Andrade.</span>
         </div>
+        <br />
         <div className='noticia-x-geral'>
             <span className="titulo-noticia-x">CONFERÊNCIA COMPLETO EM CRISTO</span>
             <span className="titulo-noticia-x"> </span>
