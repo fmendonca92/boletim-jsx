@@ -1,0 +1,40 @@
+/* styles.css */
+.wedding-anniversaries-container {
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+.anniversary-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.anniversary-item {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.anniversary-item:last-child {
+  border-bottom: none;
+}
+
+.anniversary-item h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+.anniversary-item ul { /* Style the list */
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 0;
+    font-size: 0.9em;
+}
+
+.anniversary-item li{ /* Style the list items */
+    margin-bottom: 5px; /* add some space between the couples */
+}
+.anniversary-item li:last-child{
+    margin-bottom: 0; /* remove the space after the last couple */
+}
