@@ -30,11 +30,13 @@
 
 .liturgy-service li {
   margin-bottom: 5px;
+  text-align: left;
 }
 
 .bold-item {
   font-weight: bold;
   margin-left: 10px;
+  text-align: center;
 }
 
 @media (max-width: 768px) {

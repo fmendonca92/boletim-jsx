@@ -34,7 +34,10 @@ const Bulletin = () => {
             </section>
 
             <footer className="bulletin-footer">
-                <p>Contact us at: info@example.com</p>
+                <p>NOSSO ENDEREÇO: Rua das Creoulas, 156 - Graças - Recife/PE - CEP: 52011-270</p>
+                <p>Contato: (81) 3221.1583 e 99615-1339 (Secretaria - segunda a sexta)</p>
+                <p>Web: http://www.primeiraigreja.org.br e http://www.youtube.com/@presbiterianadorecife</p>
+                <p>Email: pipr@primeiraigreja.org.br</p>
             </footer>
         </div>
     );

@@ -6,13 +6,13 @@ const DutyRoster = () => {
     rows: [
       {
         category: 'Presbíteros',
-        week1: ['David das Mercês', 'Daniel Reinaux', 'Jorge Osvaldo', 'Klaus Wagner'],
-        week2: ['Jether Peixoto', 'Antônio Carlos', 'Heitor Arôxa', 'Israel Selva'],
+        week1: ['• David das Mercês', '• Daniel Reinaux', '• Jorge Osvaldo', '• Klaus Wagner'],
+        week2: ['• Jether Peixoto', '• Antônio Carlos', '• Heitor Arôxa', '• Israel Selva'],
       },
       {
         category: 'Diáconos',
-        week1: ['Manoel Rubens', 'Vitor Gomes'],
-        week2: ['Ivaldo Moraes', 'José Bartolomeu', 'Pedro Selva'],
+        week1: ['• Manoel Rubens', '• Vitor Gomes'],
+        week2: ['• Ivaldo Moraes', '• José Bartolomeu', '• Pedro Selva'],
       },
     ],
   };

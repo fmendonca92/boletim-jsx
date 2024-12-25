@@ -65,6 +65,7 @@ const Liturgy = () => {
               const text = isBold ? item.substring(1) : item;
               return (
                 <li key={index} className={isBold ? "bold-item" : ""}>
+                  {isBold && <br />}
                   {text}
                 </li>
               );
@@ -79,6 +80,7 @@ const Liturgy = () => {
               const text = isBold ? item.substring(1) : item;
               return (
                 <li key={index} className={isBold ? "bold-item" : ""}>
+                  {isBold && <br />}
                   {text}
                 </li>
               );
