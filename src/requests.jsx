@@ -19,7 +19,7 @@ const PrayerRequests = () => {
       'Mônica de Andrade',
       'Raquel Amorim',
     ],
-    outrosEnfermos: ['Rejane Lacerda', 'Reynilda Oliveira', 'Ruth Varela', 'Vanildo Lima', 'Vitória Fonseca', 'Vivilene', 'Zulmira de Carvalho','João Calvino (filho de Vera e João Alves)'],
+    outrosEnfermos: ['Rejane Lacerda', 'Reynilda Oliveira', 'Ruth Varela', 'Vanildo Lima', 'Vitória Fonseca', 'Vivilene', 'Zulmira de Carvalho', 'João Calvino (filho de Vera e João Alves)'],
     outrosPedidos: [
       'Pelos desempregados, subempregados e autônomos',
       'Pelos projetos sociais Filadélfia, Barnabé, Aurora, Parque dos Milagres e Vale do Senhor',

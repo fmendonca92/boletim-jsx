@@ -20,7 +20,7 @@ const Bulletin = () => {
                 <hr />
                 <Noticias />
                 <hr />
-                <img src="banner_relacionamentos.png" className="banner-event"/>
+                <img src="banner_relacionamentos.png" className="banner-event" />
                 <hr />
 
             </header>

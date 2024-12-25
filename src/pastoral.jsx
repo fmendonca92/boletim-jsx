@@ -26,10 +26,10 @@ const TextoPastoral = () => (
             A missão da igreja é urgente, e consiste em proclamar o glorioso evangelho da graça do Senhor Jesus, a fim de as pessoas ouçam a respeito dele, arrependam-se, creiam e vivam para a glória de Deus, finalidade principal da obra missionária.
         </p>
         <p>
-        “Para que todos o adorem”.
+            “Para que todos o adorem”.
         </p>
         <p>
-        Rev. Lutero Rocha
+            Rev. Lutero Rocha
         </p>
 
     </div>
