@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boletim-jsx/static/css/main.2918d00f.css",
+    "main.js": "/boletim-jsx/static/js/main.7e6bcd7b.js",
+    "static/js/488.a2a6981a.chunk.js": "/boletim-jsx/static/js/488.a2a6981a.chunk.js",
+    "index.html": "/boletim-jsx/index.html",
+    "main.2918d00f.css.map": "/boletim-jsx/static/css/main.2918d00f.css.map",
+    "main.7e6bcd7b.js.map": "/boletim-jsx/static/js/main.7e6bcd7b.js.map",
+    "488.a2a6981a.chunk.js.map": "/boletim-jsx/static/js/488.a2a6981a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2918d00f.css",
+    "static/js/main.7e6bcd7b.js"
+  ]
+}
