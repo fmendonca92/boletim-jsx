@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/boletim-jsx/static/css/main.2918d00f.css",
-    "main.js": "/boletim-jsx/static/js/main.7e6bcd7b.js",
+    "main.css": "/boletim-jsx/static/css/main.5c99e03b.css",
+    "main.js": "/boletim-jsx/static/js/main.9d96fb96.js",
     "static/js/488.a2a6981a.chunk.js": "/boletim-jsx/static/js/488.a2a6981a.chunk.js",
     "index.html": "/boletim-jsx/index.html",
-    "main.2918d00f.css.map": "/boletim-jsx/static/css/main.2918d00f.css.map",
-    "main.7e6bcd7b.js.map": "/boletim-jsx/static/js/main.7e6bcd7b.js.map",
+    "main.5c99e03b.css.map": "/boletim-jsx/static/css/main.5c99e03b.css.map",
+    "main.9d96fb96.js.map": "/boletim-jsx/static/js/main.9d96fb96.js.map",
     "488.a2a6981a.chunk.js.map": "/boletim-jsx/static/js/488.a2a6981a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2918d00f.css",
-    "static/js/main.7e6bcd7b.js"
+    "static/css/main.5c99e03b.css",
+    "static/js/main.9d96fb96.js"
   ]
 }
